@@ -74,6 +74,8 @@ The aim is to bring Marie closer to a more comprehensive understanding of the au
 
 ## First meeting
 
+<details>
+
 My group and I had a discussion together before talking to Marie and shared our ideas and questions:
 
 - Our assumptions:
@@ -149,6 +151,8 @@ Learn from other group members.
 <img src="./readme-images/Prototype2-test1-2.png" alt="Prototype 2 test 1 number 2">
 <img src="./readme-images/icon-sketch.jpg" alt="icon sketch" width="40%">
 <img src="./readme-images/illustrations-icons.png" alt="illustrations-icons example" width="40%">
+
+</details>
 
 ## First test
 
