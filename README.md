@@ -169,16 +169,12 @@ I will work on the following points:
 <img src="./readme-images/Prototype3-text.png" alt="Prototype versie 3 foto text">
 <img src="./readme-images/Prototype3-text2.png" alt="Prototype versie 3 foto text 2">
 
-****
+**Illustrations are not only for showing the speaker, but also for conveying his feelings in several cases, for example: perhaps the speaker is in the background, or he cannot be seen, or a face appears that does not represent his true feeling during the speech (example: Carmen thanks, but he is still not satisfied).**
 <img src="./readme-images/Prototype3-feelings.png" alt="Prototype versie 3 foto feelings">
-
-****
 <img src="./readme-images/Prototype3-another-feeling.png" alt="Prototype versie 3 foto another feeling">
-
-****
 <img src="./readme-images/Prototype3-background-spreak.png" alt="Prototype versie 3 foto group talk from the background">
 
-****
+**For the sounds that appear in the background only, I created a sound wave effect that is located in the place where the sound is issued or its direction if it is completely outside the frame of the image, and I made a note at the top of the video about the type of sound and an emoji to provide a quicker overview of the cause of the sound.**
 <img src="./readme-images/Prototype3-soundEffects.png" alt="Prototype versie 3 foto background soundEffects">
 
 ****
