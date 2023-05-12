@@ -18,7 +18,7 @@ Marie experiences a significant loss of nuance while watching movies or document
 
 # Link prototype
 
-🔗 [My finel versie](https://sundouskanaan.github.io/CloseCaptions/versie3.html)
+🔗 [My finel versie](https://sundouskanaan.github.io/Close-Captions/versie3.html)
 
 ---
 ### inhoud
@@ -35,6 +35,7 @@ Marie experiences a significant loss of nuance while watching movies or document
   - [First prototype](#first-prototype)
   - [First test](#first-test)
   - [Evaluatie](#evaluatie)
+  - [Evaluatie](#evaluatie-1)
 
 ---
 
@@ -144,6 +145,24 @@ Mary's notes on other people's work that I find nice to try:
 - Play with the font size and transform.
 - Introduce icons first
 - Work on the sounds, how high it is and where it is coming from.
+
+## Evaluatie
+
+There is no bad test because it is possible to learn from feedback to improve the work. I will work on learning feedback about my own work and feedback from others that is suitable for my work to try.
+
+I will work on the following points:
+
+- Trying to create illustrations that can capture the ironic feeling of a sentence.
+- Providing illustrations at the beginning to explain the likely feeling.
+- Use a single translation sentence instead of a double translation.
+- Using the experience of zooming in and out to convey the feeling of tension at that moment. 
+- Making clear the inner feeling of the speaker (if they claim a different feeling from the way they speak).
+- Playing with text to improve interaction with the scene.
+- Adding invisible sounds to the scene in a way that is not disruptive while watching.
+
+
+
+
 
 ## Evaluatie
 
