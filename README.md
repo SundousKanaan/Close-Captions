@@ -32,9 +32,10 @@ Marie experiences a significant loss of nuance while watching movies or document
   - [Debriefing](#debriefing)
     - [**Marie van Driessche**](#marie-van-driessche)
   - [First meeting](#first-meeting)
-  - [First prototype](#first-prototype)
+  - [First 2 prototypes](#first-2-prototypes)
   - [First test](#first-test)
   - [Evaluatie](#evaluatie)
+  - [last prototype](#last-prototype)
   - [Evaluatie](#evaluatie-1)
 
 ---
@@ -182,7 +183,7 @@ I will work on the following points:
 
 ****
 <img src="./readme-images/Prototype3-zoom.png" alt="Prototype versie 3 foto zoonin and uit">
-<img src="./readme-images/Prototype3-zoom-origin.png" alt="Prototype versie 3 foto zoonin and uit origin foto">
+<img src="./readme-images/Prototype3-zoom-origine.png" alt="Prototype versie 3 foto zoonin and uit origin foto">
 
 ****
 <img src="./readme-images/icons-explain.png" alt="Prototype versie 3 foto explaining of the illustrations">
