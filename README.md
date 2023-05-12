@@ -229,13 +229,17 @@ Therefore, I designed illustrations and used them in my captions in place of nam
 By incorporating marginalized individuals into our design process, viewing them as collaborative designers rather than mere subjects of study, we can foster the creation of innovative and impactful conventions.
 
 ### my work
+When it comes to Marie, who has been deaf since birth, I approached the task with the awareness that she doesn't experience the sensations tied to sound—their intensity or emotional expression. Consequently, I made a conscious effort to convey everything visually, ensuring it wouldn't pose any inconvenience. My aim was to offer a viewing experience that deviates from the conventional style, one that is imbued with a distinct flavor, encompassing emotions and clarity that might otherwise be absent.
 
 ## Add nonsense
 
 Approaching design for individuals with disabilities is largely an unexplored realm, where nonsense can serve as a valuable tool for delving into the unfamiliar. Moreover, it brings an element of enjoyment to the process.
 
 ### my work
-When it comes to Marie, who has been deaf since birth, I approached the task with the awareness that she doesn't experience the sensations tied to sound—their intensity or emotional expression. Consequently, I made a conscious effort to convey everything visually, ensuring it wouldn't pose any inconvenience. My aim was to offer a viewing experience that deviates from the conventional style, one that is imbued with a distinct flavor, encompassing emotions and clarity that might otherwise be absent.
+
+Marie is an adventurous individual who is always willing to explore new things and determine their suitability. With this in mind, I decided to experiment with the zoom effect after realizing that she hadn't previously noticed its impact on her while watching. Additionally, I incorporated illustrations to provide a fresh and captivating element, enhancing the expression of the speaker's emotions, which Marie felt were lacking.
+
+
 
 ---
 
