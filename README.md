@@ -151,7 +151,7 @@ Marie's feedback on my work:
 - Zooming in on the video in certain situations? Marie: "Good question... never really thought about it. Very interesting and fun to see how you could apply it."
 - Marie: "If you can translate this distinction (hearing how someone feels), that's fun."
 
-Mary's notes on other people's work that I find nice to try:
+Marie's notes on other people's work that I find nice to try:
 - Play with the font size and transform.
 - Introduce icons first
 - Work on the sounds, how high it is and where it is coming from.
@@ -224,8 +224,6 @@ As designers, we are used to making the design according to our assumptions or i
 
 Therefore, I designed illustrations and used them in my captions in place of names, because they provide a new way to display different things at once, such as the identity of the speaker, his feelings, thoughts and psychological state. Showing the intensity and location of the sound emanating in the background instead of including that in the captions. Marie does not want to know the cause of the sound, but she wants to know its location and intensity, and if possible the feeling it generates for the listener.
 
-
-
 ## Prioritise
 
 By incorporating marginalized individuals into our design process, viewing them as collaborative designers rather than mere subjects of study, we can foster the creation of innovative and impactful conventions.
@@ -237,6 +235,7 @@ By incorporating marginalized individuals into our design process, viewing them 
 Approaching design for individuals with disabilities is largely an unexplored realm, where nonsense can serve as a valuable tool for delving into the unfamiliar. Moreover, it brings an element of enjoyment to the process.
 
 ### my work
+When it comes to Marie, who has been deaf since birth, I approached the task with the awareness that she doesn't experience the sensations tied to sound—their intensity or emotional expression. Consequently, I made a conscious effort to convey everything visually, ensuring it wouldn't pose any inconvenience. My aim was to offer a viewing experience that deviates from the conventional style, one that is imbued with a distinct flavor, encompassing emotions and clarity that might otherwise be absent.
 
 ---
 
