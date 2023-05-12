@@ -31,6 +31,7 @@ Marie experiences a significant loss of nuance while watching movies or document
 - [Human Centered Design @cmda-minor-web 2022 - 2023](#human-centered-design-cmda-minor-web-2022---2023)
   - [Debriefing](#debriefing)
     - [**Marie van Driessche**](#marie-van-driessche)
+  - [User Scenario](#user-scenario)
   - [First meeting](#first-meeting)
   - [First 2 prototypes](#first-2-prototypes)
   - [First test](#first-test)
@@ -62,6 +63,14 @@ For this course, I have been given a design assignment that I will create for on
 Marie is Deaf (yes, with a capital letter - this means she identifies herself as Deaf, which basically means that her first language is Dutch Sign Language). As you can imagine, Marie struggles with things that heavily rely on sound.
 
 Marie experiences a significant loss of nuance while watching movies or documentaries. Although many films provide closed captions, they are as neutral as possible. How could closed captions be enriched to give more meaning to Marie?
+
+## User Scenario
+
+Marie desires a more immersive and enhanced viewing experience, especially in situations where facial expressions may not be visible, clear, or accurately conveying emotions. She longs for an experience that bridges the gap created by her condition.
+
+In this design, Marie can embark on a novel experience with various enhancements beyond mere translation. To heighten the sense of tension, visual effects on the screen will correspond to the intensity of the sound and its source, offering a more dynamic representation. Additionally, she will encounter a new dimension of emotions, such as tension arising from intense scenes or dialogues, through the innovative use of zooming techniques. Rather than relying on explicit speaker identification before each sentence, a subtle illustration will provide hints regarding the potential emotions and identities of the speakers, eliminating the need for constant name references.
+
+The aim is to bring Marie closer to a more comprehensive understanding of the audiovisual content she consumes, enriching her perception and allowing her to delve deeper into the intended emotions and identities conveyed within.
 
 ## First meeting
 
