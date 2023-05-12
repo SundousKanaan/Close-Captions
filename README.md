@@ -46,7 +46,7 @@ Marie experiences a significant loss of nuance while watching movies or document
     - [my work](#my-work-2)
   - [Add nonsense](#add-nonsense)
     - [my work](#my-work-3)
-- [Evaluatie](#evaluatie-1)
+- [Last Evaluatie](#last-evaluatie)
 
 ---
 
@@ -252,16 +252,22 @@ Marie is an adventurous individual who is always willing to explore new things a
 
 ---
 
-# Evaluatie
+# Last Evaluatie
 
-There is no bad test because it is possible to learn from feedback to improve the work. I will work on learning feedback about my own work and feedback from others that is suitable for my work to try.
+The test we did was very informative and useful and accordingly I have the following list to check out:
 
-I will work on the following points:
-
-- Trying to create illustrations that can capture the ironic feeling of a sentence.✅
-- Providing illustrations at the beginning to explain the likely feeling.✅
-- Use a single translation sentence instead of a double translation.✅
+- Create illustrations that can capture different emotions, both obvious and hidden. ✅
+- Indicating the expected purpose of the illustrations from the outset, so that it is easy to recognize their purpose as soon as they are glimpsed. ✅
+- Use a single translation sentence instead of a double translation. ✅
 - Using the experience of zooming in and out to convey the feeling of tension at that moment. ✅
-- Making clear the inner feeling of the speaker (if they claim a different feeling from the way they speak).✅
-- Playing with text to improve interaction with the scene.✅
-- Adding invisible sounds to the scene in a way that is not disruptive while watching.
+- Making clear the inner feeling of the speaker (if they claim a different feeling from the way they speak). ✅
+- Playing with text to improve interaction with the scene. ✅
+- Adding invisible sounds to the scene in a way that is not disruptive while watching. ✅
+- Enhance the sfeer feeling while watching. ✅
+- Clarifying what is invisible or outside the frame of the screen, which may cause a sudden change in the mood of the characters. ✅
+
+Nice to have:
+
+- Add vibration to a device close to the user.
+- Animation for illustrations.
+- Trying to make the sound effect different according to the cause, not just its intensity
