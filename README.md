@@ -184,7 +184,7 @@ I will work on the following points:
 <img src="./readme-images/Prototype3-another-feeling.png" alt="Prototype versie 3 foto another feeling">
 <img src="./readme-images/Prototype3-background-spreak.png" alt="Prototype versie 3 foto group talk from the background">
 
-**For the sounds that appear in the background only, I created a sound wave effect that is located in the place where the sound is issued or its direction if it is completely outside the frame of the image, and I made a note at the top of the video about the type of sound and an emoji to provide a quicker overview of the cause of the sound.**
+**For background sounds only, I created a sound wave effect that is where the sound is coming from or its direction if it's completely outside the frame as the intensity of the sound varies depending on why and how it's made, and I made a note at the top of the video about the type of sound and the symbol Emoticon to provide a faster overview of the cause of the sound.**
 
 <img src="./readme-images/Prototype3-soundEffects.png" alt="Prototype versie 3 foto background soundEffects">
 
@@ -219,6 +219,12 @@ Marie is Deaf (yes, with a capital letter - this means she identifies herself as
 The existing conventions in design are primarily established by and targeted towards designers. Nevertheless, not all of these conventions are applicable or user-friendly for non-designers. In order to ensure inclusivity, especially for individuals with disabilities, it is crucial that we reassess these conventions by conducting comprehensive research into their unique circumstances.
 
 ### my work
+
+As designers, we are used to making the design according to our assumptions or information that we collect about and from the target group, but we forget that people with handicap may be from the target group, but the design may not suit them, so they find it difficult to use it, and this is of course bad. Because we forget them, we do not consider their condition and needs to facilitate access in our design.
+
+Therefore, I designed illustrations and used them in my captions in place of names, because they provide a new way to display different things at once, such as the identity of the speaker, his feelings, thoughts and psychological state. Showing the intensity and location of the sound emanating in the background instead of including that in the captions. Marie does not want to know the cause of the sound, but she wants to know its location and intensity, and if possible the feeling it generates for the listener.
+
+
 
 ## Prioritise
 
