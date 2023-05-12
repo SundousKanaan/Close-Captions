@@ -36,7 +36,16 @@ Marie experiences a significant loss of nuance while watching movies or document
   - [First test](#first-test)
   - [Evaluatie](#evaluatie)
   - [last prototype](#last-prototype)
-  - [Evaluatie](#evaluatie-1)
+- [Design principles](#design-principles)
+  - [Study situation](#study-situation)
+    - [my work](#my-work)
+  - [Ignore conventions](#ignore-conventions)
+    - [my work](#my-work-1)
+  - [Prioritise](#prioritise)
+    - [my work](#my-work-2)
+  - [Add nonsense](#add-nonsense)
+    - [my work](#my-work-3)
+- [Evaluatie](#evaluatie-1)
 
 ---
 
@@ -192,9 +201,41 @@ My scene with zoomin
 <img src="./readme-images/icons-explain.png" alt="Prototype versie 3 foto explaining of the illustrations">
 
 
+# Design principles
 
+## Study situation
 
-## Evaluatie
+To become specialized designers for individuals with various disabilities, we need to study different and unique situations.
+
+### my work
+
+My team and I collected our current inquiries and ideas into one [file](https://docs.google.com/document/d/1LDvOvYqQnEArSfly82C-WOUW9OdvcDLzjdc0qaiFU7Q/edit) with the aim of making it easier to communicate with Marie and also to learn from each other. We learned different things about her, such as her work, where she watches TV series and films, and what films she is interested in. We also understood her thoughts on various matters and what bothers her with the current close captions.
+
+Marie is Deaf (yes, with a capital letter - this means she identifies herself as Deaf, which basically means that her first language is Dutch Sign Language). As you can imagine, Marie struggles with things that heavily rely on sound. 
+
+[First meeting](#first-meeting)
+
+## Ignore conventions
+
+The existing conventions in design are primarily established by and targeted towards designers. Nevertheless, not all of these conventions are applicable or user-friendly for non-designers. In order to ensure inclusivity, especially for individuals with disabilities, it is crucial that we reassess these conventions by conducting comprehensive research into their unique circumstances.
+
+### my work
+
+## Prioritise
+
+By incorporating marginalized individuals into our design process, viewing them as collaborative designers rather than mere subjects of study, we can foster the creation of innovative and impactful conventions.
+
+### my work
+
+## Add nonsense
+
+Approaching design for individuals with disabilities is largely an unexplored realm, where nonsense can serve as a valuable tool for delving into the unfamiliar. Moreover, it brings an element of enjoyment to the process.
+
+### my work
+
+---
+
+# Evaluatie
 
 There is no bad test because it is possible to learn from feedback to improve the work. I will work on learning feedback about my own work and feedback from others that is suitable for my work to try.
 
