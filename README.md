@@ -208,12 +208,11 @@ My scene with zoomin
 To become specialized designers for individuals with various disabilities, we need to study different and unique situations.
 
 ### my work
-
 My team and I collected our current inquiries and ideas into one [file](https://docs.google.com/document/d/1LDvOvYqQnEArSfly82C-WOUW9OdvcDLzjdc0qaiFU7Q/edit) with the aim of making it easier to communicate with Marie and also to learn from each other. We learned different things about her, such as her work, where she watches TV series and films, and what films she is interested in. We also understood her thoughts on various matters and what bothers her with the current close captions.
 
 Marie is Deaf (yes, with a capital letter - this means she identifies herself as Deaf, which basically means that her first language is Dutch Sign Language). As you can imagine, Marie struggles with things that heavily rely on sound. 
 
-[First meeting](#first-meeting)
+- Foor all details check [First meeting](#first-meeting)
 
 ## Ignore conventions
 
