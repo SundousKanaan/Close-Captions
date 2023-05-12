@@ -170,18 +170,25 @@ I will work on the following points:
 <img src="./readme-images/Prototype3-text2.png" alt="Prototype versie 3 foto text 2">
 
 **Illustrations are not only for showing the speaker, but also for conveying his feelings in several cases, for example: perhaps the speaker is in the background, or he cannot be seen, or a face appears that does not represent his true feeling during the speech (example: Carmen thanks, but he is still not satisfied).**
+
 <img src="./readme-images/Prototype3-feelings.png" alt="Prototype versie 3 foto feelings">
 <img src="./readme-images/Prototype3-another-feeling.png" alt="Prototype versie 3 foto another feeling">
 <img src="./readme-images/Prototype3-background-spreak.png" alt="Prototype versie 3 foto group talk from the background">
 
 **For the sounds that appear in the background only, I created a sound wave effect that is located in the place where the sound is issued or its direction if it is completely outside the frame of the image, and I made a note at the top of the video about the type of sound and an emoji to provide a quicker overview of the cause of the sound.**
+
 <img src="./readme-images/Prototype3-soundEffects.png" alt="Prototype versie 3 foto background soundEffects">
 
-****
-<img src="./readme-images/Prototype3-zoom.png" alt="Prototype versie 3 foto zoonin and uit">
-<img src="./readme-images/Prototype3-zoom-origine.png" alt="Prototype versie 3 foto zoonin and uit origin foto">
+**To enhance the scenes of tension or surprise, I added the effect of zooming in and out, because naturally, a person gets nervous when another person approaches him excessively, and Marie was excited to try it and see the result.**
 
-****
+<img src="./readme-images/Prototype3-zoom-origine.png" alt="Prototype versie 3 foto zoonin and uit origin foto">
+The origine scene
+
+<img src="./readme-images/Prototype3-zoom.png" alt="Prototype versie 3 foto zoonin and uit">
+My scene with zoomin
+
+**To directly clarify the purpose of each illustration, I added a simple explanation screen at the beginning of the video to show an example of the illustration and its closest significance. I also added the double graphic to show the real feelings that the speaker's face may not reflect, which may also work to show the real feeling behind the serious jokes.**
+
 <img src="./readme-images/icons-explain.png" alt="Prototype versie 3 foto explaining of the illustrations">
 
 
