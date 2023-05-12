@@ -14,7 +14,7 @@ Marie experiences a significant loss of nuance while watching movies or document
 
 # Oplossing
 
- I worked on the close captions to convey the characters' feelings, playing with the text to give different emotional levels. I zoomed in and out on the video to enhance the moments of stress, and added effects to highlight sound cues (What is it, and where is it in the frame when it's invisible?)
+ I worked on the Closed captions to convey the characters' feelings, playing with the text to give different emotional levels. I zoomed in and out on the video to enhance the moments of stress, and added effects to highlight sound cues (What is it, and where is it in the frame when it's invisible?)
 
 # Link prototype
 
@@ -37,6 +37,8 @@ Marie experiences a significant loss of nuance while watching movies or document
   - [First test](#first-test)
   - [Evaluatie](#evaluatie)
   - [last prototype](#last-prototype)
+    - [Closed captions](#closed-captions)
+    - [Code](#code)
 - [Design principles](#design-principles)
   - [Study situation](#study-situation)
     - [my work](#my-work)
@@ -191,6 +193,8 @@ I will work on the following points:
 
 I worked on the points I got from the test and this is what my prototype came to:
 
+### Closed captions
+
 <details>
 
 **I played around with the font style of the text to give strong Marie effects, like capital letters for screaming moments.**
@@ -222,6 +226,110 @@ My scene with zoomin
 
 </details>
 
+### Code
+
+<details>
+
+For my closed captioning I built an array containing when the phrase appeared, who the speaker is, the phrase and their mood so that the array looks like this:
+
+```JavaScript
+export let captions = [
+  {
+
+    time: "0.000",
+    charachter: "Carmen",
+    caption: "Ebra! boterhammen maken!",
+    mood: "angry"
+  },
+  {
+
+    time: "2.520",
+    charachter: "Carmen",
+    caption: `<span class="grootletter">Stop niet!!</span> met het maken van sandwiches!`,
+    mood: "superangry"
+  },
+
+  act...]
+```
+As for building the phrase on the screen, I filled in the menu item as follows, where the expressive drawing is a merger between the speaker’s name and his mood, so this must be taken into account when filling the matrix with more data:
+
+```JavaScript
+function captionMaken(captions) {
+  const liElement = document.createElement("li");
+  const pElement = document.createElement("p");
+  const divElement = document.createElement("div");
+  const imgElement = document.createElement("img");
+
+  imgElement.src = "./images/" + captions[currentCaptionIndex].charachter + "-" + captions[currentCaptionIndex].mood + ".png";
+  pElement.innerHTML = captions[currentCaptionIndex].caption;
+
+  if (captions[currentCaptionIndex].charachter !== "sound") {
+    divElement.appendChild(imgElement);
+    liElement.appendChild(divElement);
+    liElement.appendChild(pElement);
+    captionContainer.appendChild(liElement);
+  } else {
+    liElement.appendChild(pElement);
+    captionContainer.appendChild(liElement);
+  }
+}
+```
+
+As for the background sounds, they had a separate matrix containing the time of the sound’s appearance and disappearance, its type as text, an image of it as an emoji, its location on the screen according to XY, and the intensity of the sound is a time, which is the duration of the sound effect. For the matrix to be like this:
+
+```JavaScript
+export let sounds = [
+  {
+    timestart: "28.710",
+    timestop: "29.850",
+    sort: "[Kletterend]",
+    img:"🍳",
+    positionX: "65%",
+    positionY: "60%",
+    soundPower: ".7s"
+  }
+  ,
+  act... ]
+```
+For the sounds I have a different code where I populate the effect element with an element within the duration of the sound in the time period allotted to the dataset with the name "sort" otherwise it won't appear on the screen because it will appear in the "after" which fetches its content from the dataset with the name "type"
+
+```JavaScript
+// in video timeupdate event
+  for (let i = 0; i < sounds.length; i++) {
+    if (currentTime >= sounds[i].timestart && currentTime < sounds[i].timestop) {
+      if (!myInterval) {
+        console.log("setInterval");
+        makeSound(sounds[i], i);
+        soundNote(sounds[i], i);
+        myInterval = setInterval(makeSound, 300, sounds[i], i);
+      }
+    }
+  }
+
+// apart functions
+function makeSound(sound, index) {
+  const span = document.createElement('span');
+  
+  span.style.left = sound.positionX;
+  span.style.top = sound.positionY;
+  span.style.setProperty("--sound-power", sound.soundPower);
+
+  effectsContainer.appendChild(span);
+}
+
+function soundNote(sound, index) {
+  const soortSound = document.createElement('p');
+  soortSound.innerHTML = `${sound.sort}`
+  soortSound.dataset.sort = `${sound.img}`
+  effectsContainer.appendChild(soortSound);
+
+  console.log(effectsContainer);
+}
+```
+
+
+</details>
+
 # Design principles
 
 ## Study situation
@@ -231,7 +339,7 @@ To become specialized designers for individuals with various disabilities, we ne
 ### my work
 <details>
 
-My team and I collected our current inquiries and ideas into one [file](https://docs.google.com/document/d/1LDvOvYqQnEArSfly82C-WOUW9OdvcDLzjdc0qaiFU7Q/edit) with the aim of making it easier to communicate with Marie and also to learn from each other. We learned different things about her, such as her work, where she watches TV series and films, and what films she is interested in. We also understood her thoughts on various matters and what bothers her with the current close captions.
+My team and I collected our current inquiries and ideas into one [file](https://docs.google.com/document/d/1LDvOvYqQnEArSfly82C-WOUW9OdvcDLzjdc0qaiFU7Q/edit) with the aim of making it easier to communicate with Marie and also to learn from each other. We learned different things about her, such as her work, where she watches TV series and films, and what films she is interested in. We also understood her thoughts on various matters and what bothers her with the current Closed captions.
 
 Marie is Deaf (yes, with a capital letter - this means she identifies herself as Deaf, which basically means that her first language is Dutch Sign Language). As you can imagine, Marie struggles with things that heavily rely on sound. 
 

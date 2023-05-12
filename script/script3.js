@@ -134,9 +134,6 @@ function captionMaken(captions) {
 // sound making ==========================================================================
 
 function makeSound(sound, index) {
-  console.log("HI");
-  // console.log(sound)
-
   const span = document.createElement('span');
   
   span.style.left = sound.positionX;
