@@ -156,6 +156,8 @@ Learn from other group members.
 
 ## First test
 
+<details>
+
 Marie's feedback on my work:
 - Nice, there is emotion in the different icons.
 - Uncertain about the intention of the emoji feelings.
@@ -183,8 +185,13 @@ I will work on the following points:
 - Playing with text to improve interaction with the scene.
 - Adding invisible sounds to the scene in a way that is not disruptive while watching.
 
+</details>
 
 ## last prototype
+
+I worked on the points I got from the test and this is what my prototype came to:
+
+<details>
 
 **I played around with the font style of the text to give strong Marie effects, like capital letters for screaming moments.**
 
@@ -213,6 +220,7 @@ My scene with zoomin
 
 <img src="./readme-images/icons-explain.png" alt="Prototype versie 3 foto explaining of the illustrations">
 
+</details>
 
 # Design principles
 
@@ -221,11 +229,15 @@ My scene with zoomin
 To become specialized designers for individuals with various disabilities, we need to study different and unique situations.
 
 ### my work
+<details>
+
 My team and I collected our current inquiries and ideas into one [file](https://docs.google.com/document/d/1LDvOvYqQnEArSfly82C-WOUW9OdvcDLzjdc0qaiFU7Q/edit) with the aim of making it easier to communicate with Marie and also to learn from each other. We learned different things about her, such as her work, where she watches TV series and films, and what films she is interested in. We also understood her thoughts on various matters and what bothers her with the current close captions.
 
 Marie is Deaf (yes, with a capital letter - this means she identifies herself as Deaf, which basically means that her first language is Dutch Sign Language). As you can imagine, Marie struggles with things that heavily rely on sound. 
 
 - Foor all details check [First meeting](#first-meeting)
+
+</details>
 
 ## Ignore conventions
 
@@ -233,16 +245,25 @@ The existing conventions in design are primarily established by and targeted tow
 
 ### my work
 
+<details>
+
 As designers, we are used to making the design according to our assumptions or information that we collect about and from the target group, but we forget that people with handicap may be from the target group, but the design may not suit them, so they find it difficult to use it, and this is of course bad. Because we forget them, we do not consider their condition and needs to facilitate access in our design.
 
 Therefore, I designed illustrations and used them in my captions in place of names, because they provide a new way to display different things at once, such as the identity of the speaker, his feelings, thoughts and psychological state. Showing the intensity and location of the sound emanating in the background instead of including that in the captions. Marie does not want to know the cause of the sound, but she wants to know its location and intensity, and if possible the feeling it generates for the listener.
+
+</details>
 
 ## Prioritise
 
 By incorporating marginalized individuals into our design process, viewing them as collaborative designers rather than mere subjects of study, we can foster the creation of innovative and impactful conventions.
 
 ### my work
+
+<details>
+
 When it comes to Marie, who has been deaf since birth, I approached the task with the awareness that she doesn't experience the sensations tied to sound—their intensity or emotional expression. Consequently, I made a conscious effort to convey everything visually, ensuring it wouldn't pose any inconvenience. My aim was to offer a viewing experience that deviates from the conventional style, one that is imbued with a distinct flavor, encompassing emotions and clarity that might otherwise be absent.
+
+</details>
 
 ## Add nonsense
 
@@ -250,9 +271,11 @@ Approaching design for individuals with disabilities is largely an unexplored re
 
 ### my work
 
+<details>
+
 Marie is an adventurous individual who is always willing to explore new things and determine their suitability. With this in mind, I decided to experiment with the zoom effect after realizing that she hadn't previously noticed its impact on her while watching. Additionally, I incorporated illustrations to provide a fresh and captivating element, enhancing the expression of the speaker's emotions, which Marie felt were lacking.
 
-
+</details>
 
 ---
 
