@@ -113,7 +113,7 @@ Subtitles are different from closed captions. She thinks closed captions are gre
 
 Closed caption styling adjustment, if we can make it more visually appealing to make it more interesting (whisper or shout for example).
 
-## First prototype
+## First 2 prototypes
 
 For the test with Marie, I created a brief prototype where I worked with captions.
 
@@ -160,6 +160,32 @@ I will work on the following points:
 - Playing with text to improve interaction with the scene.
 - Adding invisible sounds to the scene in a way that is not disruptive while watching.
 
+
+## last prototype
+
+**I played around with the font style of the text to give strong Marie effects, like capital letters for screaming moments.**
+
+<img src="./readme-images/Prototype3-text.png" alt="Prototype versie 3 foto text">
+<img src="./readme-images/Prototype3-text2.png" alt="Prototype versie 3 foto text 2">
+
+****
+<img src="./readme-images/Prototype3-feelings.png" alt="Prototype versie 3 foto feelings">
+
+****
+<img src="./readme-images/Prototype3-another-feeling.png" alt="Prototype versie 3 foto another feeling">
+
+****
+<img src="./readme-images/Prototype3-background-spreak.png" alt="Prototype versie 3 foto group talk from the background">
+
+****
+<img src="./readme-images/Prototype3-soundEffects.png" alt="Prototype versie 3 foto background soundEffects">
+
+****
+<img src="./readme-images/Prototype3-zoom.png" alt="Prototype versie 3 foto zoonin and uit">
+<img src="./readme-images/Prototype3-zoom-origin.png" alt="Prototype versie 3 foto zoonin and uit origin foto">
+
+****
+<img src="./readme-images/icons-explain.png" alt="Prototype versie 3 foto explaining of the illustrations">
 
 
 
