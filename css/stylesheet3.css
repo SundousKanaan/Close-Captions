@@ -1,0 +1,287 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    caret-color: transparent;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --name: #ffffff;
+    --coption: #0000008c;
+    --coption-text: #e2e2e2;
+}
+
+body {
+    width: 100vw;
+    height: 100dvh;
+    height: 100vh;
+
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+
+    display: grid;
+    place-items: center;
+
+    background-color: black;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main>div:first-of-type {
+    width: 100%;
+    height: 100%;
+
+    position: relative;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+}
+
+main>div:first-of-type>span {
+    width: 100%;
+    height: calc(100% - 5em);
+
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}
+
+main>div:first-of-type>span img {
+    width: 100%;
+    height: 100%;
+
+    object-fit: contain;
+    object-position: center;
+}
+
+main>div:first-of-type span.hidden {
+    display: none;
+}
+
+/* main iframe, */
+main div video {
+    width: 100%;
+    height: 100%;
+
+    position: relative;
+    z-index: 0;
+    transition: .2s transform;
+    transform: translateX(0) scale(1) rotate(0deg);
+}
+
+main div video.zoomin {
+    transform: translateX(10em) scale(2.5) rotate(0deg);
+}
+
+@keyframes vibration {
+    0% {
+        transform: scale(1.2) rotate(10deg)
+    }
+
+    100% {
+        transform: scale(1.2) rotate(-10deg)
+    }
+}
+
+/* vibration */
+main video.shock {
+    transform: scale(1);
+    animation: shock .1s infinite both alternate;
+}
+
+@keyframes shock {
+    0% {
+        transform: scale(1)
+    }
+
+    100% {
+        transform: scale(1.5)
+    }
+}
+
+main div section {
+    width: 80%;
+    height: 3vw;
+    padding: 0 2vw;
+
+    position: absolute;
+    bottom: 8vh;
+    left: calc(50% - 80%/2);
+    z-index: 1000;
+
+    display: grid;
+    align-items: center;
+}
+
+main div section h1 {
+    grid-area: 1/1/2/-1;
+    width: fit-content;
+    height: fit-content;
+
+    justify-self: start;
+    font-size: 2vw;
+    color: var(--name);
+    opacity: 50%;
+    text-shadow: -.03em .03em 0 black;
+
+    position: absolute;
+    left: -5.1em;
+    bottom: 1em;
+}
+
+main div section ul {
+    justify-self: center;
+    list-style: none;
+    width: 50%;
+    height: fit-content;
+
+    padding: .5em 2em;
+
+    position: absolute;
+    bottom: 0;
+
+    border-radius: 5em;
+
+    background-color: transparent;
+
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: .5em;
+}
+
+main div section ul.start {
+    display: flex;
+    background-color: var(--coption);
+}
+
+main div section ul li {
+    width: fit-content;
+    min-height: 2em;
+    height: fit-content;
+    font-size: 1.5em;
+
+    color: var(--coption-text);
+
+    display: flex;
+    align-items: center;
+    gap: .5em;
+}
+
+main div section ul li div {
+    width: 2.2em;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    padding: .05em;
+
+    animation: motions .5s infinite both alternate;
+    flex-shrink: 0;
+}
+
+@keyframes motions {
+    from {
+        filter: drop-shadow(0 0 0em var(--motion-color));
+    }
+
+    to {
+        filter: drop-shadow(0 0 .3em var(--motion-color));
+    }
+}
+
+main div section ul li.first div {
+    width: 1.6em;
+}
+
+main div section ul li div img {
+    width: 100%;
+    height: 100%;
+    display: block;
+
+    object-fit: 90%;
+    object-position: center;
+}
+
+main>div ul li p span {
+    position: static;
+}
+
+main>div ul li p span.grootletter {
+    text-transform: uppercase;
+    font-size: 1.2em;
+}
+
+@media(max-height: 1500px) {
+    main div section {
+        bottom: 5vh;
+    }
+}
+
+main>div>div {
+    width: 100%;
+    aspect-ratio: 16/9;
+
+    position: absolute;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    overflow: hidden;
+}
+
+main>div>div p {
+    width: fit-content;
+    padding: 0 .5em;
+    margin-top: .5em;
+    text-align: center;
+    background-color: var(--coption);
+    color: var(--coption-text);
+    position: relative;
+}
+
+main>div>div p::after {
+    content: attr(data-sort);
+    position: absolute;
+    right: -1.3em;
+}
+
+main>div>div span {
+    width: 8em;
+    aspect-ratio: 1;
+
+    position: absolute;
+
+    left: 75%;
+    top: 60%;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    animation: soundEffect var(--sound-power) 1 both linear;
+}
+
+@keyframes soundEffect {
+    0% {
+        transform: scale(0);
+        opacity: 100%;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 0%;
+    }
+}

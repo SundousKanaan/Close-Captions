@@ -1,138 +1,160 @@
+# Close Calptions
+
+<img src="./readme-images/Prototype3.png" alt="Prototype versie 3 foto">
+
+# Onderzoeksvraag
+
+How could closed captions be enriched to give more meaning to Marie?
+
+# Probleemdefinitie
+
+Marie is Deaf (yes, with a capital letter - this means she identifies herself as Deaf, which basically means that her first language is Dutch Sign Language). As you can imagine, Marie struggles with things that heavily rely on sound.
+
+Marie experiences a significant loss of nuance while watching movies or documentaries. Although many films provide closed captions, they are as neutral as possible.
+
+# Oplossing
+
+ I worked on the close captions to convey the characters' feelings, playing with the text to give different emotional levels. I zoomed in and out on the video to enhance the moments of stress, and added effects to highlight sound cues (What is it, and where is it in the frame when it's invisible?)
+
+# Link prototype
+
+🔗 [My finel versie](https://sundouskanaan.github.io/CloseCaptions/versie3.html)
+
+---
+### inhoud
+- [Close Calptions](#close-calptions)
+- [Onderzoeksvraag](#onderzoeksvraag)
+- [Probleemdefinitie](#probleemdefinitie)
+- [Oplossing](#oplossing)
+- [Link prototype](#link-prototype)
+    - [inhoud](#inhoud)
+- [Human Centered Design @cmda-minor-web 2022 - 2023](#human-centered-design-cmda-minor-web-2022---2023)
+  - [Debriefing](#debriefing)
+    - [**Marie van Driessche**](#marie-van-driessche)
+  - [First meeting](#first-meeting)
+  - [First prototype](#first-prototype)
+  - [First test](#first-test)
+  - [Evaluatie](#evaluatie)
+
+---
+
 # Human Centered Design @cmda-minor-web 2022 - 2023
 
-Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
+In our class "Human Centered Design," we had an assignment to create a special design for a person with a disability. We had to choose a problem that they were experiencing and find a way to solve it with our design. The most important thing was to understand what the person we were designing for wanted and needed. We had to talk to them and test out our ideas to make sure it was a good fit for them. We wanted to make sure that our design was made just for them and would make their life easier.
 
-> What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
+## Debriefing
 
-Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. 
-Omdat eem Frontender verstand heeft van interactie, vormgeving én techniek kun je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
-        
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. 
-Is er goede interactie? Kan je testpersoon je product op een prettige manier bedienen? 
-Wat voor principes heb je gebruikt en getest? En is het leuk?
+For this course, I have been given a design assignment that I will create for one individual - a real person. Each week, I must test my design and iterate to improve it. Eventually, I will have an exclusive design that is tailored specifically to this person. But who is this person for whom I am designing? What do they like or dislike? How do they use a computer? These are all important questions that I must consider in order to create a successful design.
 
-## Opdracht
+### **Marie van Driessche**
 
-### Ontwerpen met en voor echte mensen
+Marie is Deaf (yes, with a capital letter - this means she identifies herself as Deaf, which basically means that her first language is Dutch Sign Language). As you can imagine, Marie struggles with things that heavily rely on sound.
 
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. 
-Een echt mens. 
-Je moet je ontwerp elke week testen. 
-Door te testen en te itereren ga je je ontwerp verbeteren. 
-Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. 
-Een _exclusive design_ ... 
-Wie is deze persoon dan voor wie je dit gaat maken? 
-Wat vindt deze persoon leuk of juist niet? 
-Hoe bedient deze persoon een computer?
+Marie experiences a significant loss of nuance while watching movies or documentaries. Although many films provide closed captions, they are as neutral as possible. How could closed captions be enriched to give more meaning to Marie?
 
-- [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
+## First meeting
 
-### Leerdoelen
+My group and I had a discussion together before talking to Marie and shared our ideas and questions:
 
-- _Leren hoe je (design) principles in een ontwerp kan toepassen._
-- _User needs begrijpen en gebruiken in je ontwerp._
-- _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
+- Our assumptions:
+    - Is it difficult to convey emotions through closed captions?
+    - Can the font type/size be adjusted?
+    - Is there difficulty in distinguishing between speakers?
 
-[Rubric](#rubric)
+- Questions:
+    - Is there a difference between "deaf" and "Deaf" (with a capital letter)?
+    - What are the challenges you face when listening to podcasts? (keep it somewhat broad and general)
+    - Have you had a good experience with a specific app/service/media related to transcription/closed captions?
+    - Do you happen to have an example of a problem you have experienced? (sentence can be rephrased)
+    - When and where (context) do you usually listen to podcasts?
+    - Do you have a favorite podcast?
+    - Do you use any specific apps for listening to podcasts?
+    - What adjustment options would you like to have regarding closed captions?
 
-## Planning & programma
+- Question order:
+    - Is there a difference between "deaf" and "Deaf" (with a capital letter)?
+    - Do you have a favorite podcast?
+    - When and where (context) do you usually listen to podcasts?
+    - Do you use any specific apps for listening to podcasts?
+    - Have you had a good experience with a specific app/service/media related to transcription/closed captions?
+    - What are the challenges you face when listening to podcasts? (keep it somewhat broad and general)
+    - Do you happen to have an example of a problem you have experienced? (sentence can be rephrased)
 
-| Planning  | Woensdag  |  Donderdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro & College Exclusive design | College + Testen | Feedbackgesprekken |
-| [Week 2](#week-2---prototypen-en-testen)  | College + Testen | ~~Koningsdag~~  | ~~Vrij~~  | 
-| ~~Meivakantie~~ |   |  |   |
-| [Week 3](#week-3---prototypen-presenteren-en-reflecteren)  | College  |  Onderzoeken presenteren | Beoordelingsgesprekken  |
+- The most important results:
 
+Marie is 34 years old and works as a UX designer. She was born deaf, but it is unknown why and it is not hereditary as nobody else in her family is deaf. Marie grew up using sign language and has learned to lip-read, although it can be challenging depending on the context and appearance of the speaker. During work meetings, Marie always has a sign language interpreter with her to ensure that she can follow along as sign language is her primary language. Ze is er trots op dat ze doof is en vindt het geen probleem.
 
-## Week 1 - Intro en aannames testen 
+She loves to watch series, TV programs. Movies a little less.
 
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Zorg dat je al een kleine interactieve demo maakt om te testen.
+- Inconsistent quality of subtitles on Dutch TV.
+- Lack of indication of who is speaking in the subtitles.
+- Background noises are not included in the subtitles.
+- Lack of context and missing information in the subtitles.
+- Limited emotional nuance in the subtitles.
+- Inability to convey all the information conveyed through spoken language in the subtitles.
+- Overuse of obvious captions in some shows, like explosions.
+- Difficulty in conveying nuances of spoken language, such as emotion or tone, through written captions.
+- Challenges with displaying text for multiple people speaking at the same time.
 
-### Woensdag 19 april
+- **Marie notes**:
+    - It's important for me to see who is saying what. But if it's difficult to see, then adding the name would be helpful.
+    - **Colors**: In the past, with the VPRO, they had colored subtitles where each person was assigned a specific color at the beginning of the series. So she kept that in mind. However, that has disappeared. The disadvantage of color theory is that in western culture, red is often associated with "danger". So the correct perspective should be taken into account. Colors and emotions are difficult to determine, as it can vary for everyone.
+    - **Fonts for different situations**: It's possible and fun to experiment with, but I love reading and can imagine that if something is in all caps, it might seem like shouting to me.
+    - Who is speaking, and where is the sound coming from?
+    If a car comes into view, an explosion happens, and the car goes back to the other side, she doesn't know why this happened or where the sounds came from. I've gotten better at filling in the gaps, but it can be tiring.
+    - **Customization options**: Colors, atmosphere. For example, if you see two people in conversation, I can often read their body language to tell if they're arguing or if it's an important discussion. But sometimes I can't tell, especially if the conversation is very intense and certain tones or speeds are not visible to me. This is often just literally translated. It would be valuable to know what the atmosphere is like or if someone is stuttering.
+    - **Subtitles in 2 places**: Primary and secondary sounds. Primary sounds at the bottom. Subtitles easiest in the middle, because I'm used to it there. Sound effects distributed over the screen
+    - **music**: Music in general is quite abstract to me. Distinguish the type of music (emotional / sad / disturbed ... etc.), be aware that sounds arouse certain emotions. She is aware of the rather loud noises. 
 
-Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Eric gaat vertellen over _Exclusive Design_.
+- **What do you expect from us?**
 
-Daarna prototypen.
+Subtitles are different from closed captions. She thinks closed captions are great, but she just misses the nuances in them. The feeling in it.
 
-### Donderdag 20 april
+Closed caption styling adjustment, if we can make it more visually appealing to make it more interesting (whisper or shout for example).
 
-Donderdag krijg je een college over testen. Ook gaan we deze les het artikel [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/flipping-things/) bespreken.
+## First prototype
 
-Daarna prototypen en testen.
+For the test with Marie, I created a brief prototype where I worked with captions.
 
-### Vrijdag 21 april
+ My plan is as follows:
+- Use photos instead of names (is that something she would enjoy?)
+- Illustrations of people to show the speaker and their emotions while speaking.
+- Two sentences stacked on top of each other (the top one is the old one with smaller font size and the bottom one is the new one with normal font size).
+- Ask questions about zooming in and out and the emotion that needs to be conveyed during stressful moments.
+- Discuss whether photos or illustrations work better.
+Learn from other group members.
 
-Feedbackgesprekken in groepen.
+<img src="./readme-images/Prototype1-test1.png" alt="Prototype 1 test 1">
+<img src="./readme-images/Prototype2-test1.png" alt="Prototype 2 test 1 number 1">
+<img src="./readme-images/Prototype2-test1-2.png" alt="Prototype 2 test 1 number 2">
+<img src="./readme-images/icon-sketch.jpg" alt="icon sketch" width="40%">
+<img src="./readme-images/illustrations-icons.png" alt="illustrations-icons example" width="40%">
 
+## First test
 
-## Week 2 - Prototypen en testen 
+Marie's feedback on my work:
+- Nice, there is emotion in the different icons.
+- Uncertain about the intention of the emoji feelings.
+- A bit distracting to have two lines of subtitles (due to an experience in Belgium where there were double subtitles of two different languages overlapping).
+- Illustrations are more interesting than photos because the emotion is already in the illustration. But can I visually express all emotions? Sarcasm, for example, is difficult in sign language!
+- Zooming in on the video in certain situations? Marie: "Good question... never really thought about it. Very interesting and fun to see how you could apply it."
+- Marie: "If you can translate this distinction (hearing how someone feels), that's fun."
 
-Deze week heb je het tweede gesprek met je testpersoon. Wat ga je testen? Wat wil je weten? Donderdag is het koningsdag, dan is er geen les.
+Mary's notes on other people's work that I find nice to try:
+- Play with the font size and transform.
+- Introduce icons first
+- Work on the sounds, how high it is and where it is coming from.
 
-### Woensdag 26 april
+## Evaluatie
 
-Woensdag krijg je een college over testen. 
-Lees voor deze les de artikelen:  
-[10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) 
-en [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/).
+There is no bad test because it is possible to learn from feedback to improve the work. I will work on learning feedback about my own work and feedback from others that is suitable for my work to try.
 
-'s Middags ga je voor de tweede keer testen.
+I will work on the following points:
 
-
-
-## Week 3 - Prototypen, presenteren en reflecteren
-
-In week 3 gaan we alle onderzoeken presenteren en publiceren. Eind van de week zijn de beoordelingsgesprekken. 
-
-### Woensdag 10 mei
-
-Woensdag beginnen we met een college. 
-Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) 
-
-Daarna verder werken aan je prototype.
-
-### Donderdag 11 mei
-
-Donderdag gaan we de onderzoeken presenteren en gaan we een site maken om al jullie onderzoeksbevindingen te publiceren. 
-
-
-### Vrijdag 12 mei
-
-Op vrijdag zijn de beoordelingsgesprekken. Je hebt dan een gesprek waarin we je vorderingen en bevindingen bespreekt. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
-
-
-
-## Rubric
-
-De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen voor het criterium (middenkolom) om het vak te halen. 
-
-| Ontoereikend  | Criteria  |  Verbetering |
-|---|---|---|
-|  | Readme - In de beschrijving van het project staat de opdracht uitgelegd, is het probleem duidelijk beschreven en hoe het probleem is opgelost. | | 
-|  | Design Principles - Student laat zien hoe de Exclusive Design Principles zijn toegepast in het ontwerp. De principes study situation, prioritise identity, ignore conventions en add nonsense zijn goed uitgelegd. Aan de hand van de principes wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp. | | 
-|  | User Needs - Er is een user scenario geschreven dat aansluit bij de identiteit van de test persoon. Er is een duidelijk en volledig user scenario geschreven dat antwoord geeft op de 4 w-vragen: Who? What? How? en Why? | | 
-|  | Testen - Er is elke week getest. Er is een verslaglegging van de tests gedaan waarin de test-opzet wordt behandeld en er is een duidelijke conclusie beschreven met do's en dont's over hoe je goed kan testen. | | 
-|  | Testresultaten - Aan de hand van de tests wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp of hoe dit een volgende keer beter of anders kan. | | 
-
-
-
-
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
-
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+- Trying to create illustrations that can capture the ironic feeling of a sentence.✅
+- Providing illustrations at the beginning to explain the likely feeling.✅
+- Use a single translation sentence instead of a double translation.✅
+- Using the experience of zooming in and out to convey the feeling of tension at that moment. ✅
+- Making clear the inner feeling of the speaker (if they claim a different feeling from the way they speak).✅
+- Playing with text to improve interaction with the scene.✅
+- Adding invisible sounds to the scene in a way that is not disruptive while watching.

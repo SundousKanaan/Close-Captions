@@ -1,0 +1,151 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    caret-color: transparent;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --name: #ffffff;
+    --coption: #0000008c;
+    --coption-text: #e2e2e2;
+}
+
+body{
+    width: 100vw;
+    height: 100dvh;
+    height: 100vh;
+
+    overflow: hidden;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+main{
+    width: 100%;
+    height: 100%;
+
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* main iframe, */
+main video{
+    width: 100%;
+    aspect-ratio: 16/9; 
+    position: relative;
+    z-index: 0;
+}
+
+
+main section{
+    width: 100%;
+    height: 3vw;
+    padding: 0 2vw;
+
+    position: fixed;
+    bottom: 7vh;
+    z-index: 1000;
+
+    display: grid;
+    align-items: center;
+}
+
+main section h1{
+    grid-area: 1/1/2/-1;
+    width: fit-content;
+    height: fit-content;
+
+    justify-self: start;
+    font-size: 2vw;
+    color: var(--name);
+    opacity: 50%;
+    text-shadow: -.03em .03em 0 black;
+}
+
+main section ul{
+    justify-self: center;
+    list-style: none;
+    width: 50%;
+    height: fit-content;
+
+    padding: .5em 2em;
+
+    position: absolute;
+    bottom: 0;
+
+    border-radius: 5em;
+    
+    background-color: transparent;
+
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: .5em ;
+}
+
+main section ul.start{
+    display: flex;
+    background-color: var(--coption);
+}
+
+main section ul li{
+    width: fit-content;
+    min-height: 2em;
+    height: fit-content;
+    font-size: 1.5em;
+
+    color: var(--coption-text);
+
+    display: flex;
+    align-items: center;
+    gap: .5em;
+}
+
+main section ul li div{
+    width: 2em;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+main section ul li.first div{
+    width: 1.6em;
+
+}
+
+main section ul li div img{
+    width: 100%;
+    /* height: 100%; */
+    display: block;
+
+    object-fit: cover;
+    object-position: center;
+}
+
+main section ul li.first{
+    font-size: 1.3em;
+    color: var(--coption-text);
+}
+
+/*
+main section ul li p::before{
+    content: " - ";
+} */
+
+
+@media(max-height: 1500px){
+    main section{
+        bottom: 5vh;
+    }
+}
