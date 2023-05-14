@@ -30,8 +30,12 @@ Marie experiences a significant loss of nuance while watching movies or document
     - [inhoud](#inhoud)
 - [Human Centered Design @cmda-minor-web 2022 - 2023](#human-centered-design-cmda-minor-web-2022---2023)
   - [Debriefing](#debriefing)
-    - [**Marie van Driessche**](#marie-van-driessche)
-  - [User Scenario](#user-scenario)
+- [User Scenario](#user-scenario)
+  - [**Who is Marie van Driessche**](#who-is-marie-van-driessche)
+  - [**What does Marie desire?**](#what-does-marie-desire)
+  - [**How does Marie want to achieve the desired experience?**](#how-does-marie-want-to-achieve-the-desired-experience)
+  - [**Why does Marie want to have this experience?**](#why-does-marie-want-to-have-this-experience)
+- [My solution](#my-solution)
   - [First meeting](#first-meeting)
   - [First 2 prototypes](#first-2-prototypes)
   - [First test](#first-test)
@@ -49,6 +53,7 @@ Marie experiences a significant loss of nuance while watching movies or document
   - [Add nonsense](#add-nonsense)
     - [my work](#my-work-3)
 - [Last Evaluatie](#last-evaluatie)
+- [Reflection](#reflection)
 
 ---
 
@@ -60,17 +65,29 @@ In our class "Human Centered Design," we had an assignment to create a special d
 
 For this course, I have been given a design assignment that I will create for one individual - a real person. Each week, I must test my design and iterate to improve it. Eventually, I will have an exclusive design that is tailored specifically to this person. But who is this person for whom I am designing? What do they like or dislike? How do they use a computer? These are all important questions that I must consider in order to create a successful design.
 
-### **Marie van Driessche**
+# User Scenario
+
+## **Who is Marie van Driessche**
 
 Marie is Deaf (yes, with a capital letter - this means she identifies herself as Deaf, which basically means that her first language is Dutch Sign Language). As you can imagine, Marie struggles with things that heavily rely on sound.
 
 Marie experiences a significant loss of nuance while watching movies or documentaries. Although many films provide closed captions, they are as neutral as possible. How could closed captions be enriched to give more meaning to Marie?
 
-## User Scenario
+## **What does Marie desire?**
 
 Marie desires a more immersive and enhanced viewing experience, especially in situations where facial expressions may not be visible, clear, or accurately conveying emotions. She longs for an experience that bridges the gap created by her condition.
 
-In this design, Marie can embark on a novel experience with various enhancements beyond mere translation. To heighten the sense of tension, visual effects on the screen will correspond to the intensity of the sound and its source, offering a more dynamic representation. Additionally, she will encounter a new dimension of emotions, such as tension arising from intense scenes or dialogues, through the innovative use of zooming techniques. Rather than relying on explicit speaker identification before each sentence, a subtle illustration will provide hints regarding the potential emotions and identities of the speakers, eliminating the need for constant name references.
+## **How does Marie want to achieve the desired experience?**
+
+Marie wants to achieve the desired experience by bridging the gap created by her condition through various enhancements beyond mere translation. This includes visual effects corresponding to the intensity of sound and its source, innovative use of zooming techniques, and subtle illustrations providing hints about potential emotions and identities of speakers.
+
+## **Why does Marie want to have this experience?**
+
+Marie wants this experience to bring her closer to a fuller understanding of the audiovisual content she consumes. It aims to enrich her awareness and allow her to delve into the intended feelings and identities conveyed within people and the effect of different sounds on reactions.
+
+---
+# My solution
+In this design, Marie can embark on a novel experience with various enhancements beyond mere translation. To heighten the sense of tension, visual effects on the screen will correspond to the intensity of the sound and its source, offering a more dynamic representation. Additionally, she will encounter a new dimension of emotions, such as tension arising from intense scenes or dialogues, through the innovative use of zooming techniques. Rather than relying on explicit speaker identification before each sentence, a subtle illustration will provide hints regarding the potential emotions and identities of the speakers.
 
 The aim is to bring Marie closer to a more comprehensive understanding of the audiovisual content she consumes, enriching her perception and allowing her to delve deeper into the intended emotions and identities conveyed within.
 
@@ -336,6 +353,8 @@ function soundNote(sound, index) {
 
 To become specialized designers for individuals with various disabilities, we need to study different and unique situations.
 
+We need to understand and know the person we are designing for so that the final design is completely appropriate for him, because what we see as easy to do may be annoying to him and cause him difficulty. So by studying him as a person and knowing his needs and what problems he faces, we can design with that in mind.
+
 ### my work
 <details>
 
@@ -349,7 +368,7 @@ Marie is Deaf (yes, with a capital letter - this means she identifies herself as
 
 ## Ignore conventions
 
-The existing conventions in design are primarily established by and targeted towards designers. Nevertheless, not all of these conventions are applicable or user-friendly for non-designers. In order to ensure inclusivity, especially for individuals with disabilities, it is crucial that we reassess these conventions by conducting comprehensive research into their unique circumstances.
+The existing conventions in design are primarily established by and targeted towards designers. Nevertheless, not all of these conventions are applicable or user-friendly for non-designers. In order to ensure inclusivity, especially for individuals with disabilities, it is crucial that we reassess these conventions by conducting comprehensive research into their unique circumstances شnd design by neglecting our own ideas about the way to interact with the matter because whoever we design for may not deal with it in the same way according to his condition.
 
 ### my work
 
@@ -363,7 +382,7 @@ Therefore, I designed illustrations and used them in my captions in place of nam
 
 ## Prioritise
 
-By incorporating marginalized individuals into our design process, viewing them as collaborative designers rather than mere subjects of study, we can foster the creation of innovative and impactful conventions.
+By incorporating marginalized individuals into our design process, viewing them as collaborative designers rather than mere subjects of study, we can foster the creation of innovative and impactful conventions. So instead of designing according to the idea of this is nice for him to try, we have to design according to the idea. This is a very appropriate solution to his problem and also does not cause him a feeling of inconvenience because it was made especially for him.
 
 ### my work
 
@@ -375,7 +394,7 @@ When it comes to Marie, who has been deaf since birth, I approached the task wit
 
 ## Add nonsense
 
-Approaching design for individuals with disabilities is largely an unexplored realm, where nonsense can serve as a valuable tool for delving into the unfamiliar. Moreover, it brings an element of enjoyment to the process.
+Approaching design for individuals with disabilities is largely an unexplored realm, where nonsense can serve as a valuable tool for delving into the unfamiliar. Moreover, it brings an element of enjoyment to the process. So it's nice to think outside the box and what's new for them to try and test with them to see results and potential improvements.
 
 ### my work
 
@@ -406,3 +425,11 @@ Nice to have:
 - Add vibration to a device close to the user.
 - Animation for illustrations.
 - Trying to make the sound effect different according to the cause, not just its intensity
+
+# Reflection
+
+It was a unique mission to highlight a segment of marginalized users during the project design process that may not be particularly their own. It makes us take their needs into account and improve the project accordingly.
+  
+It was a fun design for Marie who would happily try something new for her and see if it works well for her enjoyment of watching movies and series. True to her work as a user experience designer, her tips and responses were very helpful and not vague, but accurately describing the gist of the problem and where the error lies.
+
+It's a pity that I can't do another test of my final work, as Marie really wanted to test the effect of the zoom and the mixed illustrations. And I wanted to see the result of my work as a whole and know the points of deficiency that are currently in it to learn from them.
